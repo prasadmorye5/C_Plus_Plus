@@ -1,0 +1,4 @@
+Pass by value = create copy in another function 
+address of a - &
+
+number mapped to address in symbol tableee. in memory
